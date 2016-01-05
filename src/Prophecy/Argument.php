@@ -20,6 +20,8 @@ use Prophecy\Argument\Token;
  */
 class Argument
 {
+
+
     /**
      * Checks that argument is exact value or object.
      *
